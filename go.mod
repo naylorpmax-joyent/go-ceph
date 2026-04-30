@@ -9,6 +9,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.98.0
 	github.com/aws/smithy-go v1.24.2
 	github.com/gofrs/uuid/v5 v5.4.0
+	github.com/pierrec/xxHash v0.1.5
 	github.com/stretchr/testify v1.11.1
 	golang.org/x/sys v0.42.0
 )
